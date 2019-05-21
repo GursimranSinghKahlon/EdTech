@@ -25,10 +25,10 @@ http://127.0.0.1:8000/detect0/
 Output(dJango/detect0/templates/findAns.html):
 http://127.0.0.1:8000/detect0/findAns
 
-![alt text](https://github.com/GursimranSinghKahlon/EdTech/tree/master/dJango/detect0/Screenshots/result.png)
+![alt text](https://github.com/GursimranSinghKahlon/EdTech/blob/master/dJango/detect0/Screenshots/result.png)
 
 
 Configuration for model, question file can be chaged here:
 dJango/detect0/views.py
 
-![alt text](https://github.com/GursimranSinghKahlon/EdTech/tree/master/dJango/detect0/Screenshots/settings.png)
+![alt text](https://github.com/GursimranSinghKahlon/EdTech/blob/master/dJango/detect0/Screenshots/settings.png)
