@@ -19,16 +19,16 @@ For django Project:
 HomePage(dJango/detect0/templates/index3.html):
 http://127.0.0.1:8000/detect0/
 
-![alttext](https://github.com/GursimranSinghKahlon/EdTech/tree/master/dJango/detect0/Screenshots/home.png)
+![alt text](https://github.com/GursimranSinghKahlon/EdTech/blob/master/dJango/detect0/Screenshots/home.png)
 
 
 Output(dJango/detect0/templates/findAns.html):
 http://127.0.0.1:8000/detect0/findAns
 
-![alttext](https://github.com/GursimranSinghKahlon/EdTech/tree/master/dJango/detect0/Screenshots/result.png)
+![alt text](https://github.com/GursimranSinghKahlon/EdTech/tree/master/dJango/detect0/Screenshots/result.png)
 
 
 Configuration for model, question file can be chaged here:
 dJango/detect0/views.py
 
-![alttext](https://github.com/GursimranSinghKahlon/EdTech/tree/master/dJango/detect0/Screenshots/settings.png)
+![alt text](https://github.com/GursimranSinghKahlon/EdTech/tree/master/dJango/detect0/Screenshots/settings.png)
