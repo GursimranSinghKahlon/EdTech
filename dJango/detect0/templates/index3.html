@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Quest</title>
+ </head>
+ 
+ <body>
+ <h1>Welcome</h1>
+ <form method="post" action="/detect0/findAns">{% csrf_token %}
+ <label>Ask question</label><br>
+ <input type="text" name="ques" placeholder="Type Question here" required>
+  <input type="number" name="count" placeholder="Best results : " required>
+ <input type="submit" value="Go">
+ </form>
+ </body>
+ 
+</html>

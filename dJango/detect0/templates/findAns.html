@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Quest</title>
+ </head>
+ 
+ <body>
+ <h1>Welcome</h1>
+ {% for ques,ans in question.items %}
+ <label>Your matched question : {{ques}} : {{ ans }}</label><br>
+
+{% endfor %}
+ </body>
+ 
+</html>
