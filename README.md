@@ -14,18 +14,28 @@ getAns(query,
 
 
 
+
+
 For django Project:
 
+Run: python3 manage.py runserver (from dJango directory)
+
 HomePage(dJango/detect0/templates/index3.html):
+
 http://127.0.0.1:8000/detect0/
 
 ![alt text](https://github.com/GursimranSinghKahlon/EdTech/blob/master/dJango/detect0/Screenshots/home.png)
 
 
+
+
 Output(dJango/detect0/templates/findAns.html):
+
 http://127.0.0.1:8000/detect0/findAns
 
 ![alt text](https://github.com/GursimranSinghKahlon/EdTech/blob/master/dJango/detect0/Screenshots/result.png)
+
+
 
 
 Configuration for model, question file can be chaged here:
